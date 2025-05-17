@@ -1,4 +1,0 @@
-This is a test string
-other string
-123
-test test
